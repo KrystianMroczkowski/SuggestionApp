@@ -22,11 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="Pages\SampleData.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="Pages\SampleData.razor" />
+    <None Include="Pages\Details.razor" />
   </ItemGroup>
 
 </Project>
