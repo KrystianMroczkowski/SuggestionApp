@@ -1,3 +1,6 @@
+![image](https://github.com/KrystianMroczkowski/SuggestionApp/assets/87522500/2b9c5d93-b89f-4608-a02b-011c6d405e83)
+
+
 Aplikacja internetowa służąca do zbierania i zarządzania sugestiami od użytkowników. Projekt ten umożliwia użytkownikom zgłaszanie swoich pomysłów, głosowanie na istniejące sugestie oraz komentowanie ich. Aplikacja została stworzona w celu poprawy komunikacji między użytkownikami a zespołami projektowymi, co pozwala na lepsze dostosowanie produktów i usług do potrzeb użytkowników.
 
 **Kluczowe Funkcje:**
