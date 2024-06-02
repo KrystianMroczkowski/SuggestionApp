@@ -1,4 +1,5 @@
-![image](https://github.com/KrystianMroczkowski/SuggestionApp/assets/87522500/2b9c5d93-b89f-4608-a02b-011c6d405e83)
+![image](https://github.com/KrystianMroczkowski/SuggestionApp/assets/87522500/29566a8d-f777-4893-986b-120b5c0c75df)
+
 
 
 A modern web application for collecting and managing user suggestions. This project allows users to submit their ideas, vote on existing suggestions, and comment on them. The application was created to improve communication between users and project teams, enabling better adaptation of products and services to user needs.
