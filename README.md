@@ -10,6 +10,7 @@ A modern web application for collecting and managing user suggestions. This proj
 - **Sorting and Filtering:** Suggestions can be sorted and filtered by various criteria such as the number of votes or submission date.
   
 **Technology:**
+
 The application was built using modern web technologies, ensuring its responsiveness and high performance:
 - **Backend:** .NET 8.0 using Blazor Server to handle application logic and interface rendering.
 - **Frontend:** CSS and Bootstrap 5.0 for interface styling.
